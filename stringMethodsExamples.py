@@ -72,4 +72,4 @@ print(exampleStr[0:3]) #print 'lor': first 3 characters
 print(exampleStr[3:12]) #print 'em_ipsum'
 
 
-#### ENF OD FILE ####
+#### ENF OF FILE ####
