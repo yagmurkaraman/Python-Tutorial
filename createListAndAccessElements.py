@@ -5,7 +5,7 @@ Created on Mon Oct 12 22:52:56 2020
 @author: yagmurkaraman
 """
 
-####################    DATA STRUCTURES    ####################
+####################    DATA STRUCTURES - LIST    ####################
 
 ###    []     ###
 ###  list()   ###
