@@ -49,7 +49,6 @@ print(setEx) #prints {'hello', 'world', 'welcome'}
 setEx.remove("apple")
 print(setEx) #prints {'hello', 'world', 'welcome'}
 
-#setEx.remove("apple") #KeyError: 'apple'
-
-setEx.discard("apple")
+#setEx.remove("apple") #KeyError: 'apple' 
+setEx.discard("apple") #not generated error although removed
 print(setEx) #prints {'hello', 'world', 'welcome'}
